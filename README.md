@@ -8,6 +8,6 @@ Il progetto consiste nel, dato l'orario dei docenti dell'istituto, realizzare un
 Il file una volta scaricato in locale si può testare tramite il main che una volta avviato verrà presentato un menù di selezione attraverso il quale si potranno scegliere le funzioni desiderate.
 
 Documentazione
-Per la documentazione è stato utilizzato il generatore di documentazione automatica Sphinx(https://www.sphinx-doc.org/en/master/) 
+Per la documentazione è stato utilizzato il generatore di documentazione automatica [Sphinx](https://www.sphinx-doc.org/en/master/) 
 
 ![image](https://github.com/Mattiavr/Orario_Scuola/assets/167307063/102764f7-3d77-4c9b-acc3-dd5a62a5b124)
