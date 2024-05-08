@@ -6,3 +6,5 @@ Il progetto consiste nel, dato l'orario dei docenti dell'istituto, realizzare un
 4. elenco dei docenti che hanno lezione (classe o disposizione) una determinata ora di un determinato giorno della settimana (esempio prima ora del lunedì) e numero totale dei docenti
 
 Il file una volta scaricato in locale si può testare tramite il main che una volta avviato verrà presentato un menù di selezione attraverso il quale si potranno scegliere le funzioni desiderate.
+
+![image](https://github.com/Mattiavr/Orario_Scuola/assets/167307063/102764f7-3d77-4c9b-acc3-dd5a62a5b124)
