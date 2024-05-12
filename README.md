@@ -5,7 +5,7 @@ Il progetto consiste nel, dato l'orario dei docenti dell'istituto, realizzare un
 3. cognome e nome di un determinato docente e numero di ore a disposizione ('D')
 4. elenco dei docenti che hanno lezione (classe o disposizione) una determinata ora di un determinato giorno della settimana (esempio prima ora del lunedì) e numero totale dei docenti
 
-Il file una volta scaricato in locale si può testare tramite il main che una volta verrà presenterà un menù di selezione attraverso il quale si potranno scegliere le funzioni desiderate.
+Il file una volta scaricato in locale si può testare tramite il main che una volta avviato presenterà un menù di selezione attraverso il quale si potranno scegliere le funzioni desiderate.
 
 Documentazione
 
